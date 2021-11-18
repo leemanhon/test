@@ -1,5 +1,9 @@
 # Lee Man Hon's Colonist Test Game
 
+
+https://user-images.githubusercontent.com/84304258/142396020-eb6b229d-ff37-4ff4-9d96-62b290769b04.mp4
+
+
 ## Steps done
 - Forked repository
 - New Branch created named leemanhon and worked in the branch
